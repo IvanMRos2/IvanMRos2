@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Iván Rosero 👋
+Graduated from the Data Science 4 All program with Correlation One and Forte where I learned to handle data analysis technologies using Python
+and SQL. I’m a food engineer graduated from University of Caldas where I began to build knowledge in programming and data handling. I studied a Master degree in University Pontificia Bolivariana where I carried out a research project about the differences between drying techniques. Currently I continue studying with Pereiran Technologic University the diplomat in programming technologies and also in a self-taught way to improve my skills and upgrade my profile in the area. 💻🖥️
 <!--
 **IvanMRos2/IvanMRos2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
